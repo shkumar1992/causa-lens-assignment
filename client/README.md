@@ -1,4 +1,4 @@
-# Quatexa Coding Assignment
+# causaLens Coding Assignment
 
 This project contains the coding assignment for Quantexa creating various visualisations of spending data of EPSRC.
 
